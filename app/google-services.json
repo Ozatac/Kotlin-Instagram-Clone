@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077545433",
+    "firebase_url": "https://kotlininstagram-a3783.firebaseio.com",
+    "project_id": "kotlininstagram-a3783",
+    "storage_bucket": "kotlininstagram-a3783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077545433:android:e8f4b3af131c92e22af1c8",
+        "android_client_info": {
+          "package_name": "com.tunahanozatac.kotlininstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077545433-3buqgvf6g1sid3fcgfps0e3jsd0nc4cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunahanozatac.kotlininstagram",
+            "certificate_hash": "7299ff9b4f458b05301ee643583b480610713904"
+          }
+        },
+        {
+          "client_id": "1077545433-jsu88arr0gmimelde05r1ac0sv3ic01k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtd7hGtFQgESc5AAB-mWbF1T1WkH2wYcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077545433-jsu88arr0gmimelde05r1ac0sv3ic01k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
